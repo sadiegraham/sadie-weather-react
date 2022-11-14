@@ -3,7 +3,7 @@
   margin: 20px 0;
   max-width: 630px;
   padding: 20px 24px 24px;
-  background-color: rgb(250, 255, 204);
+  background-color: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);
 }
 
 .Weather .btn {
