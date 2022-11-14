@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by Sadie Graham and is{" "}
           <a
-            href="https://github.com/teddirussell/teddi-weather-app-react"
+            href="https://github.com/sadiegraham/sadie-weather-react"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://harmonious-brigadeiros-101803.netlify.app/"
+            href="https://zingy-flan-4d90f0.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
