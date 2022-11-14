@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by Teddi Russell and is{" "}
+          This project was coded by Sadie Graham and is{" "}
           <a
             href="https://github.com/teddirussell/teddi-weather-app-react"
             target="_blank"
